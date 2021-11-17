@@ -16,7 +16,6 @@ jobs:
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.5
-        #lo que hace es crear una rama y dentro exponer nuestro sitio web
         with:
           branch: gh-pages # The branch the action should deploy to.
           folder: build # The folder the action should deploy.
