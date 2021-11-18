@@ -1,4 +1,3 @@
-import React from 'react';
 import '../styles/CreateAccount.scss';
 
 const CreateAccount = () => {

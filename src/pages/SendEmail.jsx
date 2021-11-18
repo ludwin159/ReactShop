@@ -1,4 +1,3 @@
-import React from 'react';
 import '../styles/SendEmail.scss';
 
 const SendEmail = () => {
